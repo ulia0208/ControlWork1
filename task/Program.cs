@@ -32,3 +32,19 @@ for (int i=0; i<n; i++)
 }
 Console.Write("]" );
 Console.WriteLine("Коротких членов" + k );
+
+string[] array2=new string[k];
+
+int f=0;
+for (int i=0; i<n; i++)
+{
+    if(array[i].Length<=3)
+    {
+        array2[f]=array[i];
+        f++;
+    }
+}
+
+
+
+
