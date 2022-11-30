@@ -23,15 +23,23 @@ int k=0;
 Console.Write("[" );
 for (int i=0; i<n; i++)
 {
-    Console.Write(array[i]+",");
+    if (i<n-1)
+    {
+       Console.Write(array[i]+","); 
+    }
+    else
+    {
+        Console.Write(array[i]); 
+    }
+    
     if(array[i].Length<=3)
     {
         k++;
     }
     
 }
-Console.Write("]" );
-Console.WriteLine("Коротких членов" + k );
+Console.WriteLine("]" );
+Console.WriteLine("Коротких членов " + k );
 
 string[] array2=new string[k];
 
@@ -49,7 +57,14 @@ for (int i=0; i<n; i++)
 Console.Write("[" );
 for (int i=0; i<k; i++)
 {
-    Console.Write(array2[i]+",");
+    if (i<k-1)
+    {
+        Console.Write(array2[i]+",");
+    }
+    else
+    {
+        Console.Write(array2[i]);
+    }
 }
 Console.Write("]" );
 
