@@ -46,5 +46,12 @@ for (int i=0; i<n; i++)
 }
 
 
+Console.Write("[" );
+for (int i=0; i<k; i++)
+{
+    Console.Write(array2[i]+",");
+}
+Console.Write("]" );
+
 
 
