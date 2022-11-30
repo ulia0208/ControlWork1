@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/bin/Debug/net7.0/task
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/bin/Debug/net7.0/task.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/bin/Debug/net7.0/task.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/bin/Debug/net7.0/task.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/refint/task.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ControlWork1/task/obj/Debug/net7.0/ref/task.dll
