@@ -8,7 +8,7 @@ Console.WriteLine("Введите размер массива");
 int n = Convert.ToInt32(Console.ReadLine());
 
 string[] array = new string[n];
-
+int j=0;
 for (int i=0; i<n; i++)
 {
     Console.Write("Введите строку ");
@@ -18,11 +18,17 @@ for (int i=0; i<n; i++)
 
 
 
+int k=0;
+
 Console.Write("[" );
 for (int i=0; i<n; i++)
 {
     Console.Write(array[i]+",");
-
+    if(array[i].Length<=3)
+    {
+        k++;
+    }
     
 }
 Console.Write("]" );
+Console.WriteLine("Коротких членов" + k );
